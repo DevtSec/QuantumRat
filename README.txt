@@ -10,7 +10,7 @@ soon we updating this RAT.
 K1ngSoul: https://github.com/K1ngSoul - Thanks for his awesome knowledge about RAT.
 
 
-Regards from all DevtSec member.
+Regards from all Devtion member.
 - Ras0ch1f.
 - Mekraz.
 - Skofos.
